@@ -1,8 +1,8 @@
-# AMD Developer Challenge 2025 Project
+# AMD Developer Challenge 2025 Submissions
 
 🥈 **2nd Place Winner** in AMD Developer Challenge 2025
 
-**Ranked** 1st in mla-decode, 2nd in moe, and 5th in fp8-mm
+**Ranked** 1st in MLA Decode, 2nd in MoE, and 5th in FP8 GEMM.
 
 ![result](./img/result.jpg)
 
