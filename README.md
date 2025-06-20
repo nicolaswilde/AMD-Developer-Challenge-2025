@@ -7,6 +7,7 @@
 ![result](./img/result.jpg)
 
 The full results:
+
 - amd-fp8-mm: https://www.gpumode.com/leaderboard/399
 - amd-mixture-of-experts: https://www.gpumode.com/leaderboard/430
 - amd-mla-decode: https://www.gpumode.com/leaderboard/463
@@ -35,7 +36,8 @@ The final submissions:
 
 ### Online Submission
 
-Submit via GPU Mode Discord: https://discord.com/channels/1189498204333543425/1343002583001726986 using:
+Submit via GPU Mode Discord: https://discord.com/channels/1189498204333543425/1343002583001726986. Using:
+
 - `/leaderboard submit test`
 - `/leaderboard submit benchmark`
 -  `/leaderboard submit ranked`
@@ -43,6 +45,7 @@ Submit via GPU Mode Discord: https://discord.com/channels/1189498204333543425/13
 ### Local Execution
 
 **Prerequisites**:
+
 - AMD MI300X GPU
 - ROCm and PyTorch installed
 
