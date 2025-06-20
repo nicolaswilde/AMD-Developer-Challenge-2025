@@ -56,7 +56,7 @@ Submit via GPU Mode Discord: https://discord.com/channels/1189498204333543425/13
    git clone https://github.com/gpu-mode/reference-kernels.git
    ```
 
-2. Replace submission files in the cloned repository with the ones from this repository. Taking `amd-fp8-mm` as an example:
+2. Replace submission files in the cloned repository with the ones from this repository. **Taking `amd-fp8-mm` as an example**:
    - replace the content of `/reference-kernels/problems/amd/fp8-mm/submission.py` with the content of my `1-amd-fp8-mm/amd-fp8-mm-submission.py`
 
 3. Create the tests file and add benchmarks.
