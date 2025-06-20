@@ -1,1 +1,1 @@
-# amd2025gpu
+AMD Developer Challenge 2025
